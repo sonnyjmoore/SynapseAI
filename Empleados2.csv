@@ -1,0 +1,721 @@
+﻿ID,Correo,Telefono ,Puesto solicitado ,Peso_puesto,Experiencia laboral (en años),Certificaciones relevantes ,Peso_certificacion,Salario deseado,Peso_Salario
+1,jessica97@hotmail.com,4927364851, Ingeniero civil,1.500229116,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+2,mrodriguez@gmail.com,4929586102, Arquitecto,7.696098497,2,Certificación en diseño estructural,1,20000,8
+3,ssmith23@yahoo.com,4920318476, Gerente de proyectos,1.996976688,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+4,jgonzalez@gmail.com,4925871930, Jefe de obra,70.64811706,10,,0,10000,10
+5,rachel.parker@yahoo.com,4924091568, Obrero,9.598969352,1,,0,20000,8
+6,aaron.johnson@outlook.com,4926412087, Jefe de obra,49.97211974,6,,0,40000,2
+7,jkelly67@gmail.com,4927103856, Gerente de proyectos,28.89753248,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+8,amanda.miller@hotmail.com,4928936041, Arquitecto,7.868391207,5,Certificación en construcción sostenible (LEED),1,15000,9
+9,t.wilson23@yahoo.com,4921470385, Ingeniero civil,76.35908949,7,Certificación en diseño estructural,1,25000,7
+10,s.carter42@gmail.com,4926891753, Obrero,52.49598769,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+11,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,32.21951916,2,,0,25000,7
+12,jessie.jackson@outlook.com,4929257401, Obrero,7.020467465,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+13,j.adams25@hotmail.com,4921078365, Arquitecto,84.65257176,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+14,danny.brown@gmail.com,4925861074, Jefe de obra,65.58793515,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+15,rjones18@yahoo.com,4923948710, Ingeniero civil,40.51567644,1,Certificación en construcción sostenible (LEED),1,35000,5
+16,l.hernandez31@gmail.com,4928630741, Obrero,52.46266753,5,,0,10000,10
+17,karen.baker@hotmail.com,4924591783, Gerente de proyectos,2.4823901,7,,0,30000,6
+18,daniel.turner@yahoo.com,4922380974, Jefe de obra,34.19000203,9,,0,20000,8
+19,catherine_lee@gmail.com,4925738410, Arquitecto,75.84813838,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+20,kevin.walker23@yahoo.com,4929410853, Jefe de obra,61.15612069,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+21,jenny.martin12@outlook.com,4920623578, Ingeniero civil,35.83730477,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+22,bethany.russell@gmail.com,4923157890, Obrero,11.72525968,3,,0,40000,2
+23,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,73.43160814,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+24,sara.andrews@hotmail.com,4924059182, Arquitecto,22.2907521,9,Certificación en gestión de riesgos de construcción,1,35000,5
+25,j.white12@gmail.com,4921098653, Ingeniero civil,71.50411874,7,,0,15000,9
+26,jennifer.scott23@yahoo.com,4928195730, Obrero,71.01992295,2,,0,20000,8
+27,jason.cook@gmail.com,4924870165, Jefe de obra,29.33111062,10,Certificación en construcción sostenible (LEED),1,25000,7
+28,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,0.045452636,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+29,tiffany.wong@outlook.com,4925308176, Arquitecto,50.81148066,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+30,nathan.murray@yahoo.com,4929270413, Obrero,57.06529695,5,,0,30000,6
+31,jessica97@hotmail.com,4927364851, Ingeniero civil,70.82532682,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+32,mrodriguez@gmail.com,4929586102, Arquitecto,79.70090284,2,Certificación en diseño estructural,1,20000,8
+33,ssmith23@yahoo.com,4920318476, Gerente de proyectos,58.92468905,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+34,jgonzalez@gmail.com,4925871930, Jefe de obra,92.49258194,10,,0,10000,10
+35,rachel.parker@yahoo.com,4924091568, Obrero,31.36666912,1,,0,20000,8
+36,aaron.johnson@outlook.com,4926412087, Jefe de obra,63.03564258,6,,0,40000,2
+37,jkelly67@gmail.com,4927103856, Gerente de proyectos,54.87862869,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+38,amanda.miller@hotmail.com,4928936041, Arquitecto,29.01680851,5,Certificación en construcción sostenible (LEED),1,15000,9
+39,t.wilson23@yahoo.com,4921470385, Ingeniero civil,66.43004801,7,Certificación en diseño estructural,1,25000,7
+40,s.carter42@gmail.com,4926891753, Obrero,78.58261262,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+41,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,12.51691875,2,,0,25000,7
+42,jessie.jackson@outlook.com,4929257401, Obrero,52.93850076,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+43,j.adams25@hotmail.com,4921078365, Arquitecto,18.9306386,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+44,danny.brown@gmail.com,4925861074, Jefe de obra,26.24567893,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+45,rjones18@yahoo.com,4923948710, Ingeniero civil,8.343371248,1,Certificación en construcción sostenible (LEED),1,35000,5
+46,l.hernandez31@gmail.com,4928630741, Obrero,82.98947787,5,,0,10000,10
+47,karen.baker@hotmail.com,4924591783, Gerente de proyectos,71.05669323,7,,0,30000,6
+48,daniel.turner@yahoo.com,4922380974, Jefe de obra,22.10983111,9,,0,20000,8
+49,catherine_lee@gmail.com,4925738410, Arquitecto,64.38107485,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+50,kevin.walker23@yahoo.com,4929410853, Jefe de obra,97.70136385,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+51,jenny.martin12@outlook.com,4920623578, Ingeniero civil,15.46135885,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+52,bethany.russell@gmail.com,4923157890, Obrero,79.34842482,3,,0,40000,2
+53,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,44.65898169,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+54,sara.andrews@hotmail.com,4924059182, Arquitecto,20.71609793,9,Certificación en gestión de riesgos de construcción,1,35000,5
+55,j.white12@gmail.com,4921098653, Ingeniero civil,15.61633019,7,,0,15000,9
+56,jennifer.scott23@yahoo.com,4928195730, Obrero,89.30787808,2,,0,20000,8
+57,jason.cook@gmail.com,4924870165, Jefe de obra,22.00640712,10,Certificación en construcción sostenible (LEED),1,25000,7
+58,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,65.96147016,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+59,tiffany.wong@outlook.com,4925308176, Arquitecto,66.0693644,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+60,nathan.murray@yahoo.com,4929270413, Obrero,69.57725266,5,,0,30000,6
+61,jessica97@hotmail.com,4927364851, Ingeniero civil,28.2166708,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+62,mrodriguez@gmail.com,4929586102, Arquitecto,6.64105219,2,Certificación en diseño estructural,1,20000,8
+63,ssmith23@yahoo.com,4920318476, Gerente de proyectos,43.10302548,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+64,jgonzalez@gmail.com,4925871930, Jefe de obra,93.20838292,10,,0,10000,10
+65,rachel.parker@yahoo.com,4924091568, Obrero,75.06438646,1,,0,20000,8
+66,aaron.johnson@outlook.com,4926412087, Jefe de obra,18.37168552,6,,0,40000,2
+67,jkelly67@gmail.com,4927103856, Gerente de proyectos,51.69148085,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+68,amanda.miller@hotmail.com,4928936041, Arquitecto,49.64453155,5,Certificación en construcción sostenible (LEED),1,15000,9
+69,t.wilson23@yahoo.com,4921470385, Ingeniero civil,39.50042031,7,Certificación en diseño estructural,1,25000,7
+70,s.carter42@gmail.com,4926891753, Obrero,60.43433256,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+71,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,99.50060351,2,,0,25000,7
+72,jessie.jackson@outlook.com,4929257401, Obrero,14.02057348,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+73,j.adams25@hotmail.com,4921078365, Arquitecto,47.4252571,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+74,danny.brown@gmail.com,4925861074, Jefe de obra,23.8907525,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+75,rjones18@yahoo.com,4923948710, Ingeniero civil,17.20273017,1,Certificación en construcción sostenible (LEED),1,35000,5
+76,l.hernandez31@gmail.com,4928630741, Obrero,37.4448145,5,,0,10000,10
+77,karen.baker@hotmail.com,4924591783, Gerente de proyectos,24.51090003,7,,0,30000,6
+78,daniel.turner@yahoo.com,4922380974, Jefe de obra,2.695752876,9,,0,20000,8
+79,catherine_lee@gmail.com,4925738410, Arquitecto,74.16846944,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+80,kevin.walker23@yahoo.com,4929410853, Jefe de obra,87.45044409,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+81,jenny.martin12@outlook.com,4920623578, Ingeniero civil,3.754495342,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+82,bethany.russell@gmail.com,4923157890, Obrero,27.62649905,3,,0,40000,2
+83,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,70.66840498,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+84,sara.andrews@hotmail.com,4924059182, Arquitecto,14.87353768,9,Certificación en gestión de riesgos de construcción,1,35000,5
+85,j.white12@gmail.com,4921098653, Ingeniero civil,3.080041226,7,,0,15000,9
+86,jennifer.scott23@yahoo.com,4928195730, Obrero,62.56838535,2,,0,20000,8
+87,jason.cook@gmail.com,4924870165, Jefe de obra,74.31910118,10,Certificación en construcción sostenible (LEED),1,25000,7
+88,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,67.27110107,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+89,tiffany.wong@outlook.com,4925308176, Arquitecto,91.46587073,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+90,nathan.murray@yahoo.com,4929270413, Obrero,53.96668067,5,,0,30000,6
+91,jessica97@hotmail.com,4927364851, Ingeniero civil,51.51148021,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+92,mrodriguez@gmail.com,4929586102, Arquitecto,5.564312205,2,Certificación en diseño estructural,1,20000,8
+93,ssmith23@yahoo.com,4920318476, Gerente de proyectos,22.71268697,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+94,jgonzalez@gmail.com,4925871930, Jefe de obra,72.42653955,10,,0,10000,10
+95,rachel.parker@yahoo.com,4924091568, Obrero,73.75098872,1,,0,20000,8
+96,aaron.johnson@outlook.com,4926412087, Jefe de obra,34.99703048,6,,0,40000,2
+97,jkelly67@gmail.com,4927103856, Gerente de proyectos,63.7885608,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+98,amanda.miller@hotmail.com,4928936041, Arquitecto,13.60661835,5,Certificación en construcción sostenible (LEED),1,15000,9
+99,t.wilson23@yahoo.com,4921470385, Ingeniero civil,73.1072506,7,Certificación en diseño estructural,1,25000,7
+100,s.carter42@gmail.com,4926891753, Obrero,90.17660776,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+101,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,59.87862738,2,,0,25000,7
+102,jessie.jackson@outlook.com,4929257401, Obrero,37.72000472,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+103,j.adams25@hotmail.com,4921078365, Arquitecto,34.58756656,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+104,danny.brown@gmail.com,4925861074, Jefe de obra,91.73015609,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+105,rjones18@yahoo.com,4923948710, Ingeniero civil,29.37423879,1,Certificación en construcción sostenible (LEED),1,35000,5
+106,l.hernandez31@gmail.com,4928630741, Obrero,39.98924194,5,,0,10000,10
+107,karen.baker@hotmail.com,4924591783, Gerente de proyectos,46.44652584,7,,0,30000,6
+108,daniel.turner@yahoo.com,4922380974, Jefe de obra,34.28682042,9,,0,20000,8
+109,catherine_lee@gmail.com,4925738410, Arquitecto,37.51883626,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+110,kevin.walker23@yahoo.com,4929410853, Jefe de obra,36.39003753,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+111,jenny.martin12@outlook.com,4920623578, Ingeniero civil,16.33217726,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+112,bethany.russell@gmail.com,4923157890, Obrero,24.3043856,3,,0,40000,2
+113,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,64.47802475,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+114,sara.andrews@hotmail.com,4924059182, Arquitecto,36.31994441,9,Certificación en gestión de riesgos de construcción,1,35000,5
+115,j.white12@gmail.com,4921098653, Ingeniero civil,47.6062365,7,,0,15000,9
+116,jennifer.scott23@yahoo.com,4928195730, Obrero,97.38585372,2,,0,20000,8
+117,jason.cook@gmail.com,4924870165, Jefe de obra,32.64468541,10,Certificación en construcción sostenible (LEED),1,25000,7
+118,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,12.69603009,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+119,tiffany.wong@outlook.com,4925308176, Arquitecto,92.05698148,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+120,nathan.murray@yahoo.com,4929270413, Obrero,93.49826531,5,,0,30000,6
+121,jessica97@hotmail.com,4927364851, Ingeniero civil,46.29410367,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+122,mrodriguez@gmail.com,4929586102, Arquitecto,6.922623944,2,Certificación en diseño estructural,1,20000,8
+123,ssmith23@yahoo.com,4920318476, Gerente de proyectos,50.51689701,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+124,jgonzalez@gmail.com,4925871930, Jefe de obra,14.8568116,10,,0,10000,10
+125,rachel.parker@yahoo.com,4924091568, Obrero,27.30287344,1,,0,20000,8
+126,aaron.johnson@outlook.com,4926412087, Jefe de obra,61.69909464,6,,0,40000,2
+127,jkelly67@gmail.com,4927103856, Gerente de proyectos,90.35302763,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+128,amanda.miller@hotmail.com,4928936041, Arquitecto,21.78270864,5,Certificación en construcción sostenible (LEED),1,15000,9
+129,t.wilson23@yahoo.com,4921470385, Ingeniero civil,18.93065333,7,Certificación en diseño estructural,1,25000,7
+130,s.carter42@gmail.com,4926891753, Obrero,73.21760766,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+131,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,99.84686687,2,,0,25000,7
+132,jessie.jackson@outlook.com,4929257401, Obrero,7.816886727,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+133,j.adams25@hotmail.com,4921078365, Arquitecto,25.58886318,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+134,danny.brown@gmail.com,4925861074, Jefe de obra,97.10075363,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+135,rjones18@yahoo.com,4923948710, Ingeniero civil,58.9259727,1,Certificación en construcción sostenible (LEED),1,35000,5
+136,l.hernandez31@gmail.com,4928630741, Obrero,21.3414052,5,,0,10000,10
+137,karen.baker@hotmail.com,4924591783, Gerente de proyectos,71.18070216,7,,0,30000,6
+138,daniel.turner@yahoo.com,4922380974, Jefe de obra,69.08696225,9,,0,20000,8
+139,catherine_lee@gmail.com,4925738410, Arquitecto,8.840994191,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+140,kevin.walker23@yahoo.com,4929410853, Jefe de obra,63.03067457,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+141,jenny.martin12@outlook.com,4920623578, Ingeniero civil,71.71352164,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+142,bethany.russell@gmail.com,4923157890, Obrero,6.137540558,3,,0,40000,2
+143,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,57.60486643,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+144,sara.andrews@hotmail.com,4924059182, Arquitecto,45.48300493,9,Certificación en gestión de riesgos de construcción,1,35000,5
+145,j.white12@gmail.com,4921098653, Ingeniero civil,76.4593012,7,,0,15000,9
+146,jennifer.scott23@yahoo.com,4928195730, Obrero,60.39929196,2,,0,20000,8
+147,jason.cook@gmail.com,4924870165, Jefe de obra,62.47438738,10,Certificación en construcción sostenible (LEED),1,25000,7
+148,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,74.7701096,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+149,tiffany.wong@outlook.com,4925308176, Arquitecto,3.675434177,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+150,nathan.murray@yahoo.com,4929270413, Obrero,54.69087977,5,,0,30000,6
+151,jessica97@hotmail.com,4927364851, Ingeniero civil,63.70854356,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+152,mrodriguez@gmail.com,4929586102, Arquitecto,77.65521409,2,Certificación en diseño estructural,1,20000,8
+153,ssmith23@yahoo.com,4920318476, Gerente de proyectos,7.019397094,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+154,jgonzalez@gmail.com,4925871930, Jefe de obra,25.76470089,10,,0,10000,10
+155,rachel.parker@yahoo.com,4924091568, Obrero,41.69140586,1,,0,20000,8
+156,aaron.johnson@outlook.com,4926412087, Jefe de obra,36.13434914,6,,0,40000,2
+157,jkelly67@gmail.com,4927103856, Gerente de proyectos,86.71116341,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+158,amanda.miller@hotmail.com,4928936041, Arquitecto,67.63021078,5,Certificación en construcción sostenible (LEED),1,15000,9
+159,t.wilson23@yahoo.com,4921470385, Ingeniero civil,46.92323119,7,Certificación en diseño estructural,1,25000,7
+160,s.carter42@gmail.com,4926891753, Obrero,31.79341247,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+161,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,39.5482419,2,,0,25000,7
+162,jessie.jackson@outlook.com,4929257401, Obrero,82.45090503,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+163,j.adams25@hotmail.com,4921078365, Arquitecto,21.9203367,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+164,danny.brown@gmail.com,4925861074, Jefe de obra,26.53335844,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+165,rjones18@yahoo.com,4923948710, Ingeniero civil,26.85655428,1,Certificación en construcción sostenible (LEED),1,35000,5
+166,l.hernandez31@gmail.com,4928630741, Obrero,86.1751585,5,,0,10000,10
+167,karen.baker@hotmail.com,4924591783, Gerente de proyectos,30.01288687,7,,0,30000,6
+168,daniel.turner@yahoo.com,4922380974, Jefe de obra,20.11018427,9,,0,20000,8
+169,catherine_lee@gmail.com,4925738410, Arquitecto,70.96716488,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+170,kevin.walker23@yahoo.com,4929410853, Jefe de obra,74.42721214,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+171,jenny.martin12@outlook.com,4920623578, Ingeniero civil,4.98510711,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+172,bethany.russell@gmail.com,4923157890, Obrero,7.095752102,3,,0,40000,2
+173,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,25.83304023,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+174,sara.andrews@hotmail.com,4924059182, Arquitecto,37.64428934,9,Certificación en gestión de riesgos de construcción,1,35000,5
+175,j.white12@gmail.com,4921098653, Ingeniero civil,81.60279396,7,,0,15000,9
+176,jennifer.scott23@yahoo.com,4928195730, Obrero,52.43544946,2,,0,20000,8
+177,jason.cook@gmail.com,4924870165, Jefe de obra,8.503019184,10,Certificación en construcción sostenible (LEED),1,25000,7
+178,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,40.19643385,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+179,tiffany.wong@outlook.com,4925308176, Arquitecto,49.79494626,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+180,nathan.murray@yahoo.com,4929270413, Obrero,61.15549616,5,,0,30000,6
+181,jessica97@hotmail.com,4927364851, Ingeniero civil,69.96345392,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+182,mrodriguez@gmail.com,4929586102, Arquitecto,62.54348799,2,Certificación en diseño estructural,1,20000,8
+183,ssmith23@yahoo.com,4920318476, Gerente de proyectos,48.71220599,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+184,jgonzalez@gmail.com,4925871930, Jefe de obra,59.43158807,10,,0,10000,10
+185,rachel.parker@yahoo.com,4924091568, Obrero,58.47836858,1,,0,20000,8
+186,aaron.johnson@outlook.com,4926412087, Jefe de obra,42.15862981,6,,0,40000,2
+187,jkelly67@gmail.com,4927103856, Gerente de proyectos,76.50128463,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+188,amanda.miller@hotmail.com,4928936041, Arquitecto,42.07265851,5,Certificación en construcción sostenible (LEED),1,15000,9
+189,t.wilson23@yahoo.com,4921470385, Ingeniero civil,90.82431314,7,Certificación en diseño estructural,1,25000,7
+190,s.carter42@gmail.com,4926891753, Obrero,98.72615428,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+191,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,54.38775836,2,,0,25000,7
+192,jessie.jackson@outlook.com,4929257401, Obrero,73.26767491,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+193,j.adams25@hotmail.com,4921078365, Arquitecto,2.439345199,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+194,danny.brown@gmail.com,4925861074, Jefe de obra,56.71377276,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+195,rjones18@yahoo.com,4923948710, Ingeniero civil,95.62635991,1,Certificación en construcción sostenible (LEED),1,35000,5
+196,l.hernandez31@gmail.com,4928630741, Obrero,6.344086596,5,,0,10000,10
+197,karen.baker@hotmail.com,4924591783, Gerente de proyectos,44.27876535,7,,0,30000,6
+198,daniel.turner@yahoo.com,4922380974, Jefe de obra,32.62261513,9,,0,20000,8
+199,catherine_lee@gmail.com,4925738410, Arquitecto,42.85305967,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+200,kevin.walker23@yahoo.com,4929410853, Jefe de obra,23.52985544,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+201,jenny.martin12@outlook.com,4920623578, Ingeniero civil,4.384752786,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+202,bethany.russell@gmail.com,4923157890, Obrero,8.394884306,3,,0,40000,2
+203,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,98.49979245,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+204,sara.andrews@hotmail.com,4924059182, Arquitecto,66.67286032,9,Certificación en gestión de riesgos de construcción,1,35000,5
+205,j.white12@gmail.com,4921098653, Ingeniero civil,97.69061521,7,,0,15000,9
+206,jennifer.scott23@yahoo.com,4928195730, Obrero,57.19513313,2,,0,20000,8
+207,jason.cook@gmail.com,4924870165, Jefe de obra,15.22700226,10,Certificación en construcción sostenible (LEED),1,25000,7
+208,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,83.51263008,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+209,tiffany.wong@outlook.com,4925308176, Arquitecto,83.20133777,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+210,nathan.murray@yahoo.com,4929270413, Obrero,5.548189355,5,,0,30000,6
+211,jessica97@hotmail.com,4927364851, Ingeniero civil,93.67189689,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+212,mrodriguez@gmail.com,4929586102, Arquitecto,54.78302407,2,Certificación en diseño estructural,1,20000,8
+213,ssmith23@yahoo.com,4920318476, Gerente de proyectos,46.44758137,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+214,jgonzalez@gmail.com,4925871930, Jefe de obra,92.47790524,10,,0,10000,10
+215,rachel.parker@yahoo.com,4924091568, Obrero,49.80334515,1,,0,20000,8
+216,aaron.johnson@outlook.com,4926412087, Jefe de obra,26.92380871,6,,0,40000,2
+217,jkelly67@gmail.com,4927103856, Gerente de proyectos,99.91334635,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+218,amanda.miller@hotmail.com,4928936041, Arquitecto,74.17470178,5,Certificación en construcción sostenible (LEED),1,15000,9
+219,t.wilson23@yahoo.com,4921470385, Ingeniero civil,39.15588714,7,Certificación en diseño estructural,1,25000,7
+220,s.carter42@gmail.com,4926891753, Obrero,23.74872037,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+221,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,17.49273807,2,,0,25000,7
+222,jessie.jackson@outlook.com,4929257401, Obrero,3.165146556,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+223,j.adams25@hotmail.com,4921078365, Arquitecto,3.856073304,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+224,danny.brown@gmail.com,4925861074, Jefe de obra,1.134160409,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+225,rjones18@yahoo.com,4923948710, Ingeniero civil,89.14750984,1,Certificación en construcción sostenible (LEED),1,35000,5
+226,l.hernandez31@gmail.com,4928630741, Obrero,41.14628808,5,,0,10000,10
+227,karen.baker@hotmail.com,4924591783, Gerente de proyectos,81.63684575,7,,0,30000,6
+228,daniel.turner@yahoo.com,4922380974, Jefe de obra,69.81472475,9,,0,20000,8
+229,catherine_lee@gmail.com,4925738410, Arquitecto,13.40089734,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+230,kevin.walker23@yahoo.com,4929410853, Jefe de obra,22.98511865,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+231,jenny.martin12@outlook.com,4920623578, Ingeniero civil,36.64965777,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+232,bethany.russell@gmail.com,4923157890, Obrero,22.75191499,3,,0,40000,2
+233,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,45.03283572,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+234,sara.andrews@hotmail.com,4924059182, Arquitecto,40.4424512,9,Certificación en gestión de riesgos de construcción,1,35000,5
+235,j.white12@gmail.com,4921098653, Ingeniero civil,38.60538665,7,,0,15000,9
+236,jennifer.scott23@yahoo.com,4928195730, Obrero,35.74147415,2,,0,20000,8
+237,jason.cook@gmail.com,4924870165, Jefe de obra,43.62371254,10,Certificación en construcción sostenible (LEED),1,25000,7
+238,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,11.64316166,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+239,tiffany.wong@outlook.com,4925308176, Arquitecto,22.59117316,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+240,nathan.murray@yahoo.com,4929270413, Obrero,80.11292066,5,,0,30000,6
+241,jessica97@hotmail.com,4927364851, Ingeniero civil,25.35682025,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+242,mrodriguez@gmail.com,4929586102, Arquitecto,38.61426228,2,Certificación en diseño estructural,1,20000,8
+243,ssmith23@yahoo.com,4920318476, Gerente de proyectos,70.34952277,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+244,jgonzalez@gmail.com,4925871930, Jefe de obra,75.0843151,10,,0,10000,10
+245,rachel.parker@yahoo.com,4924091568, Obrero,2.497100884,1,,0,20000,8
+246,aaron.johnson@outlook.com,4926412087, Jefe de obra,18.03097473,6,,0,40000,2
+247,jkelly67@gmail.com,4927103856, Gerente de proyectos,22.52745808,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+248,amanda.miller@hotmail.com,4928936041, Arquitecto,19.73425909,5,Certificación en construcción sostenible (LEED),1,15000,9
+249,t.wilson23@yahoo.com,4921470385, Ingeniero civil,56.46617429,7,Certificación en diseño estructural,1,25000,7
+250,s.carter42@gmail.com,4926891753, Obrero,29.91791044,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+251,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,70.84984216,2,,0,25000,7
+252,jessie.jackson@outlook.com,4929257401, Obrero,47.01072823,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+253,j.adams25@hotmail.com,4921078365, Arquitecto,91.62327803,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+254,danny.brown@gmail.com,4925861074, Jefe de obra,54.40510362,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+255,rjones18@yahoo.com,4923948710, Ingeniero civil,59.92159144,1,Certificación en construcción sostenible (LEED),1,35000,5
+256,l.hernandez31@gmail.com,4928630741, Obrero,99.50379685,5,,0,10000,10
+257,karen.baker@hotmail.com,4924591783, Gerente de proyectos,39.88889802,7,,0,30000,6
+258,daniel.turner@yahoo.com,4922380974, Jefe de obra,15.86623709,9,,0,20000,8
+259,catherine_lee@gmail.com,4925738410, Arquitecto,87.48343969,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+260,kevin.walker23@yahoo.com,4929410853, Jefe de obra,63.80536605,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+261,jenny.martin12@outlook.com,4920623578, Ingeniero civil,11.36675829,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+262,bethany.russell@gmail.com,4923157890, Obrero,75.20896632,3,,0,40000,2
+263,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,25.16504755,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+264,sara.andrews@hotmail.com,4924059182, Arquitecto,56.22206387,9,Certificación en gestión de riesgos de construcción,1,35000,5
+265,j.white12@gmail.com,4921098653, Ingeniero civil,80.17917499,7,,0,15000,9
+266,jennifer.scott23@yahoo.com,4928195730, Obrero,37.91488311,2,,0,20000,8
+267,jason.cook@gmail.com,4924870165, Jefe de obra,45.639252,10,Certificación en construcción sostenible (LEED),1,25000,7
+268,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,30.81770307,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+269,tiffany.wong@outlook.com,4925308176, Arquitecto,77.87281324,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+270,nathan.murray@yahoo.com,4929270413, Obrero,63.02312707,5,,0,30000,6
+271,jessica97@hotmail.com,4927364851, Ingeniero civil,75.16927884,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+272,mrodriguez@gmail.com,4929586102, Arquitecto,98.2462098,2,Certificación en diseño estructural,1,20000,8
+273,ssmith23@yahoo.com,4920318476, Gerente de proyectos,72.33789945,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+274,jgonzalez@gmail.com,4925871930, Jefe de obra,39.5279259,10,,0,10000,10
+275,rachel.parker@yahoo.com,4924091568, Obrero,91.03164099,1,,0,20000,8
+276,aaron.johnson@outlook.com,4926412087, Jefe de obra,48.53662444,6,,0,40000,2
+277,jkelly67@gmail.com,4927103856, Gerente de proyectos,68.51463284,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+278,amanda.miller@hotmail.com,4928936041, Arquitecto,41.05000653,5,Certificación en construcción sostenible (LEED),1,15000,9
+279,t.wilson23@yahoo.com,4921470385, Ingeniero civil,44.37861896,7,Certificación en diseño estructural,1,25000,7
+280,s.carter42@gmail.com,4926891753, Obrero,14.167517,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+281,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,84.66465417,2,,0,25000,7
+282,jessie.jackson@outlook.com,4929257401, Obrero,6.662733711,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+283,j.adams25@hotmail.com,4921078365, Arquitecto,69.46656868,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+284,danny.brown@gmail.com,4925861074, Jefe de obra,61.50360005,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+285,rjones18@yahoo.com,4923948710, Ingeniero civil,45.52938927,1,Certificación en construcción sostenible (LEED),1,35000,5
+286,l.hernandez31@gmail.com,4928630741, Obrero,10.60460672,5,,0,10000,10
+287,karen.baker@hotmail.com,4924591783, Gerente de proyectos,85.1458577,7,,0,30000,6
+288,daniel.turner@yahoo.com,4922380974, Jefe de obra,40.41377769,9,,0,20000,8
+289,catherine_lee@gmail.com,4925738410, Arquitecto,33.15912157,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+290,kevin.walker23@yahoo.com,4929410853, Jefe de obra,41.80741295,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+291,jenny.martin12@outlook.com,4920623578, Ingeniero civil,74.27691099,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+292,bethany.russell@gmail.com,4923157890, Obrero,32.04888214,3,,0,40000,2
+293,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,71.75655225,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+294,sara.andrews@hotmail.com,4924059182, Arquitecto,2.758358662,9,Certificación en gestión de riesgos de construcción,1,35000,5
+295,j.white12@gmail.com,4921098653, Ingeniero civil,18.60870216,7,,0,15000,9
+296,jennifer.scott23@yahoo.com,4928195730, Obrero,99.20151227,2,,0,20000,8
+297,jason.cook@gmail.com,4924870165, Jefe de obra,95.36765288,10,Certificación en construcción sostenible (LEED),1,25000,7
+298,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,45.53998385,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+299,tiffany.wong@outlook.com,4925308176, Arquitecto,79.13854183,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+300,nathan.murray@yahoo.com,4929270413, Obrero,57.03488196,5,,0,30000,6
+301,jessica97@hotmail.com,4927364851, Ingeniero civil,8.177337624,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+302,mrodriguez@gmail.com,4929586102, Arquitecto,84.3501317,2,Certificación en diseño estructural,1,20000,8
+303,ssmith23@yahoo.com,4920318476, Gerente de proyectos,22.17317993,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+304,jgonzalez@gmail.com,4925871930, Jefe de obra,11.67977901,10,,0,10000,10
+305,rachel.parker@yahoo.com,4924091568, Obrero,49.88715939,1,,0,20000,8
+306,aaron.johnson@outlook.com,4926412087, Jefe de obra,65.44264862,6,,0,40000,2
+307,jkelly67@gmail.com,4927103856, Gerente de proyectos,34.3821915,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+308,amanda.miller@hotmail.com,4928936041, Arquitecto,9.09325246,5,Certificación en construcción sostenible (LEED),1,15000,9
+309,t.wilson23@yahoo.com,4921470385, Ingeniero civil,85.74607315,7,Certificación en diseño estructural,1,25000,7
+310,s.carter42@gmail.com,4926891753, Obrero,26.17234879,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+311,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,67.38207256,2,,0,25000,7
+312,jessie.jackson@outlook.com,4929257401, Obrero,44.02749986,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+313,j.adams25@hotmail.com,4921078365, Arquitecto,51.39431653,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+314,danny.brown@gmail.com,4925861074, Jefe de obra,44.05356229,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+315,rjones18@yahoo.com,4923948710, Ingeniero civil,11.20192172,1,Certificación en construcción sostenible (LEED),1,35000,5
+316,l.hernandez31@gmail.com,4928630741, Obrero,83.05027957,5,,0,10000,10
+317,karen.baker@hotmail.com,4924591783, Gerente de proyectos,43.47000948,7,,0,30000,6
+318,daniel.turner@yahoo.com,4922380974, Jefe de obra,78.2526854,9,,0,20000,8
+319,catherine_lee@gmail.com,4925738410, Arquitecto,9.134612875,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+320,kevin.walker23@yahoo.com,4929410853, Jefe de obra,82.43506565,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+321,jenny.martin12@outlook.com,4920623578, Ingeniero civil,36.26154749,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+322,bethany.russell@gmail.com,4923157890, Obrero,70.61914898,3,,0,40000,2
+323,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,26.19208718,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+324,sara.andrews@hotmail.com,4924059182, Arquitecto,95.40206215,9,Certificación en gestión de riesgos de construcción,1,35000,5
+325,j.white12@gmail.com,4921098653, Ingeniero civil,36.339428,7,,0,15000,9
+326,jennifer.scott23@yahoo.com,4928195730, Obrero,48.42005898,2,,0,20000,8
+327,jason.cook@gmail.com,4924870165, Jefe de obra,18.03955893,10,Certificación en construcción sostenible (LEED),1,25000,7
+328,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,19.44093428,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+329,tiffany.wong@outlook.com,4925308176, Arquitecto,79.13378288,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+330,nathan.murray@yahoo.com,4929270413, Obrero,9.987502322,5,,0,30000,6
+331,jessica97@hotmail.com,4927364851, Ingeniero civil,12.97212513,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+332,mrodriguez@gmail.com,4929586102, Arquitecto,1.945347155,2,Certificación en diseño estructural,1,20000,8
+333,ssmith23@yahoo.com,4920318476, Gerente de proyectos,27.06251147,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+334,jgonzalez@gmail.com,4925871930, Jefe de obra,15.20360504,10,,0,10000,10
+335,rachel.parker@yahoo.com,4924091568, Obrero,74.00122786,1,,0,20000,8
+336,aaron.johnson@outlook.com,4926412087, Jefe de obra,25.60677091,6,,0,40000,2
+337,jkelly67@gmail.com,4927103856, Gerente de proyectos,48.84328955,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+338,amanda.miller@hotmail.com,4928936041, Arquitecto,58.7178464,5,Certificación en construcción sostenible (LEED),1,15000,9
+339,t.wilson23@yahoo.com,4921470385, Ingeniero civil,41.9597867,7,Certificación en diseño estructural,1,25000,7
+340,s.carter42@gmail.com,4926891753, Obrero,82.56611771,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+341,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,77.09531557,2,,0,25000,7
+342,jessie.jackson@outlook.com,4929257401, Obrero,26.36023953,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+343,j.adams25@hotmail.com,4921078365, Arquitecto,70.49932221,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+344,danny.brown@gmail.com,4925861074, Jefe de obra,88.12549632,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+345,rjones18@yahoo.com,4923948710, Ingeniero civil,85.96160355,1,Certificación en construcción sostenible (LEED),1,35000,5
+346,l.hernandez31@gmail.com,4928630741, Obrero,43.15077622,5,,0,10000,10
+347,karen.baker@hotmail.com,4924591783, Gerente de proyectos,12.24883797,7,,0,30000,6
+348,daniel.turner@yahoo.com,4922380974, Jefe de obra,48.39486859,9,,0,20000,8
+349,catherine_lee@gmail.com,4925738410, Arquitecto,54.47392719,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+350,kevin.walker23@yahoo.com,4929410853, Jefe de obra,87.21297292,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+351,jenny.martin12@outlook.com,4920623578, Ingeniero civil,64.67529191,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+352,bethany.russell@gmail.com,4923157890, Obrero,5.806908548,3,,0,40000,2
+353,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,89.10692797,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+354,sara.andrews@hotmail.com,4924059182, Arquitecto,70.03382732,9,Certificación en gestión de riesgos de construcción,1,35000,5
+355,j.white12@gmail.com,4921098653, Ingeniero civil,51.47641679,7,,0,15000,9
+356,jennifer.scott23@yahoo.com,4928195730, Obrero,17.52992192,2,,0,20000,8
+357,jason.cook@gmail.com,4924870165, Jefe de obra,95.37283892,10,Certificación en construcción sostenible (LEED),1,25000,7
+358,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,55.15559618,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+359,tiffany.wong@outlook.com,4925308176, Arquitecto,32.81314306,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+360,nathan.murray@yahoo.com,4929270413, Obrero,10.05948991,5,,0,30000,6
+361,jessica97@hotmail.com,4927364851, Ingeniero civil,10.55559777,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+362,mrodriguez@gmail.com,4929586102, Arquitecto,68.88282171,2,Certificación en diseño estructural,1,20000,8
+363,ssmith23@yahoo.com,4920318476, Gerente de proyectos,70.3758835,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+364,jgonzalez@gmail.com,4925871930, Jefe de obra,84.02373098,10,,0,10000,10
+365,rachel.parker@yahoo.com,4924091568, Obrero,28.10253278,1,,0,20000,8
+366,aaron.johnson@outlook.com,4926412087, Jefe de obra,35.41989088,6,,0,40000,2
+367,jkelly67@gmail.com,4927103856, Gerente de proyectos,47.09225273,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+368,amanda.miller@hotmail.com,4928936041, Arquitecto,67.63304894,5,Certificación en construcción sostenible (LEED),1,15000,9
+369,t.wilson23@yahoo.com,4921470385, Ingeniero civil,57.00198756,7,Certificación en diseño estructural,1,25000,7
+370,s.carter42@gmail.com,4926891753, Obrero,28.9538503,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+371,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,28.82304311,2,,0,25000,7
+372,jessie.jackson@outlook.com,4929257401, Obrero,15.87179111,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+373,j.adams25@hotmail.com,4921078365, Arquitecto,56.02688409,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+374,danny.brown@gmail.com,4925861074, Jefe de obra,99.77466715,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+375,rjones18@yahoo.com,4923948710, Ingeniero civil,87.95118614,1,Certificación en construcción sostenible (LEED),1,35000,5
+376,l.hernandez31@gmail.com,4928630741, Obrero,92.44005196,5,,0,10000,10
+377,karen.baker@hotmail.com,4924591783, Gerente de proyectos,61.55818377,7,,0,30000,6
+378,daniel.turner@yahoo.com,4922380974, Jefe de obra,21.9185891,9,,0,20000,8
+379,catherine_lee@gmail.com,4925738410, Arquitecto,76.92182538,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+380,kevin.walker23@yahoo.com,4929410853, Jefe de obra,84.45007629,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+381,jenny.martin12@outlook.com,4920623578, Ingeniero civil,4.094993769,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+382,bethany.russell@gmail.com,4923157890, Obrero,80.05670804,3,,0,40000,2
+383,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,90.99226882,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+384,sara.andrews@hotmail.com,4924059182, Arquitecto,40.57617916,9,Certificación en gestión de riesgos de construcción,1,35000,5
+385,j.white12@gmail.com,4921098653, Ingeniero civil,80.39016069,7,,0,15000,9
+386,jennifer.scott23@yahoo.com,4928195730, Obrero,16.83380919,2,,0,20000,8
+387,jason.cook@gmail.com,4924870165, Jefe de obra,44.94735785,10,Certificación en construcción sostenible (LEED),1,25000,7
+388,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,16.31242608,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+389,tiffany.wong@outlook.com,4925308176, Arquitecto,67.05436586,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+390,nathan.murray@yahoo.com,4929270413, Obrero,93.44149475,5,,0,30000,6
+391,jessica97@hotmail.com,4927364851, Ingeniero civil,16.53668305,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+392,mrodriguez@gmail.com,4929586102, Arquitecto,98.15849575,2,Certificación en diseño estructural,1,20000,8
+393,ssmith23@yahoo.com,4920318476, Gerente de proyectos,49.12346644,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+394,jgonzalez@gmail.com,4925871930, Jefe de obra,37.9460259,10,,0,10000,10
+395,rachel.parker@yahoo.com,4924091568, Obrero,83.17689778,1,,0,20000,8
+396,aaron.johnson@outlook.com,4926412087, Jefe de obra,59.98774188,6,,0,40000,2
+397,jkelly67@gmail.com,4927103856, Gerente de proyectos,86.23842876,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+398,amanda.miller@hotmail.com,4928936041, Arquitecto,49.19045257,5,Certificación en construcción sostenible (LEED),1,15000,9
+399,t.wilson23@yahoo.com,4921470385, Ingeniero civil,82.02262906,7,Certificación en diseño estructural,1,25000,7
+400,s.carter42@gmail.com,4926891753, Obrero,25.77727074,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+401,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,80.66803305,2,,0,25000,7
+402,jessie.jackson@outlook.com,4929257401, Obrero,10.14621864,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+403,j.adams25@hotmail.com,4921078365, Arquitecto,84.4103399,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+404,danny.brown@gmail.com,4925861074, Jefe de obra,99.17675376,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+405,rjones18@yahoo.com,4923948710, Ingeniero civil,32.71269822,1,Certificación en construcción sostenible (LEED),1,35000,5
+406,l.hernandez31@gmail.com,4928630741, Obrero,79.8122644,5,,0,10000,10
+407,karen.baker@hotmail.com,4924591783, Gerente de proyectos,67.68699635,7,,0,30000,6
+408,daniel.turner@yahoo.com,4922380974, Jefe de obra,66.89661179,9,,0,20000,8
+409,catherine_lee@gmail.com,4925738410, Arquitecto,58.21203758,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+410,kevin.walker23@yahoo.com,4929410853, Jefe de obra,6.74676133,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+411,jenny.martin12@outlook.com,4920623578, Ingeniero civil,71.42580482,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+412,bethany.russell@gmail.com,4923157890, Obrero,31.11082104,3,,0,40000,2
+413,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,56.30998241,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+414,sara.andrews@hotmail.com,4924059182, Arquitecto,15.40482382,9,Certificación en gestión de riesgos de construcción,1,35000,5
+415,j.white12@gmail.com,4921098653, Ingeniero civil,73.29978152,7,,0,15000,9
+416,jennifer.scott23@yahoo.com,4928195730, Obrero,48.18060086,2,,0,20000,8
+417,jason.cook@gmail.com,4924870165, Jefe de obra,42.38507639,10,Certificación en construcción sostenible (LEED),1,25000,7
+418,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,73.66222204,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+419,tiffany.wong@outlook.com,4925308176, Arquitecto,38.10518134,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+420,nathan.murray@yahoo.com,4929270413, Obrero,10.44575963,5,,0,30000,6
+421,jessica97@hotmail.com,4927364851, Ingeniero civil,59.69544235,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+422,mrodriguez@gmail.com,4929586102, Arquitecto,14.72682169,2,Certificación en diseño estructural,1,20000,8
+423,ssmith23@yahoo.com,4920318476, Gerente de proyectos,88.51680556,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+424,jgonzalez@gmail.com,4925871930, Jefe de obra,78.96005921,10,,0,10000,10
+425,rachel.parker@yahoo.com,4924091568, Obrero,55.8394649,1,,0,20000,8
+426,aaron.johnson@outlook.com,4926412087, Jefe de obra,28.20508859,6,,0,40000,2
+427,jkelly67@gmail.com,4927103856, Gerente de proyectos,9.064637639,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+428,amanda.miller@hotmail.com,4928936041, Arquitecto,92.87864852,5,Certificación en construcción sostenible (LEED),1,15000,9
+429,t.wilson23@yahoo.com,4921470385, Ingeniero civil,45.67815132,7,Certificación en diseño estructural,1,25000,7
+430,s.carter42@gmail.com,4926891753, Obrero,40.95898418,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+431,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,46.05864433,2,,0,25000,7
+432,jessie.jackson@outlook.com,4929257401, Obrero,72.52647243,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+433,j.adams25@hotmail.com,4921078365, Arquitecto,78.38296117,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+434,danny.brown@gmail.com,4925861074, Jefe de obra,58.6566029,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+435,rjones18@yahoo.com,4923948710, Ingeniero civil,55.81823785,1,Certificación en construcción sostenible (LEED),1,35000,5
+436,l.hernandez31@gmail.com,4928630741, Obrero,7.036712302,5,,0,10000,10
+437,karen.baker@hotmail.com,4924591783, Gerente de proyectos,19.81321145,7,,0,30000,6
+438,daniel.turner@yahoo.com,4922380974, Jefe de obra,30.27397414,9,,0,20000,8
+439,catherine_lee@gmail.com,4925738410, Arquitecto,88.39220647,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+440,kevin.walker23@yahoo.com,4929410853, Jefe de obra,95.52183778,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+441,jenny.martin12@outlook.com,4920623578, Ingeniero civil,24.41463675,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+442,bethany.russell@gmail.com,4923157890, Obrero,8.757939087,3,,0,40000,2
+443,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,77.72472651,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+444,sara.andrews@hotmail.com,4924059182, Arquitecto,76.71813399,9,Certificación en gestión de riesgos de construcción,1,35000,5
+445,j.white12@gmail.com,4921098653, Ingeniero civil,35.77332032,7,,0,15000,9
+446,jennifer.scott23@yahoo.com,4928195730, Obrero,44.47950269,2,,0,20000,8
+447,jason.cook@gmail.com,4924870165, Jefe de obra,99.8813748,10,Certificación en construcción sostenible (LEED),1,25000,7
+448,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,67.64047195,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+449,tiffany.wong@outlook.com,4925308176, Arquitecto,8.886499042,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+450,nathan.murray@yahoo.com,4929270413, Obrero,93.80279283,5,,0,30000,6
+451,jessica97@hotmail.com,4927364851, Ingeniero civil,47.05461801,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+452,mrodriguez@gmail.com,4929586102, Arquitecto,55.76765133,2,Certificación en diseño estructural,1,20000,8
+453,ssmith23@yahoo.com,4920318476, Gerente de proyectos,11.29691932,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+454,jgonzalez@gmail.com,4925871930, Jefe de obra,7.66157075,10,,0,10000,10
+455,rachel.parker@yahoo.com,4924091568, Obrero,41.11875287,1,,0,20000,8
+456,aaron.johnson@outlook.com,4926412087, Jefe de obra,91.69157141,6,,0,40000,2
+457,jkelly67@gmail.com,4927103856, Gerente de proyectos,62.20228213,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+458,amanda.miller@hotmail.com,4928936041, Arquitecto,84.32019418,5,Certificación en construcción sostenible (LEED),1,15000,9
+459,t.wilson23@yahoo.com,4921470385, Ingeniero civil,39.64961103,7,Certificación en diseño estructural,1,25000,7
+460,s.carter42@gmail.com,4926891753, Obrero,14.4274434,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+461,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,32.8458423,2,,0,25000,7
+462,jessie.jackson@outlook.com,4929257401, Obrero,82.61617986,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+463,j.adams25@hotmail.com,4921078365, Arquitecto,22.2090694,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+464,danny.brown@gmail.com,4925861074, Jefe de obra,82.59723583,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+465,rjones18@yahoo.com,4923948710, Ingeniero civil,40.29382023,1,Certificación en construcción sostenible (LEED),1,35000,5
+466,l.hernandez31@gmail.com,4928630741, Obrero,15.58683852,5,,0,10000,10
+467,karen.baker@hotmail.com,4924591783, Gerente de proyectos,41.687701,7,,0,30000,6
+468,daniel.turner@yahoo.com,4922380974, Jefe de obra,0.391681581,9,,0,20000,8
+469,catherine_lee@gmail.com,4925738410, Arquitecto,63.72194458,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+470,kevin.walker23@yahoo.com,4929410853, Jefe de obra,85.63843629,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+471,jenny.martin12@outlook.com,4920623578, Ingeniero civil,89.31880556,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+472,bethany.russell@gmail.com,4923157890, Obrero,99.45475729,3,,0,40000,2
+473,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,8.022385316,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+474,sara.andrews@hotmail.com,4924059182, Arquitecto,4.213382839,9,Certificación en gestión de riesgos de construcción,1,35000,5
+475,j.white12@gmail.com,4921098653, Ingeniero civil,40.87186773,7,,0,15000,9
+476,jennifer.scott23@yahoo.com,4928195730, Obrero,62.78343621,2,,0,20000,8
+477,jason.cook@gmail.com,4924870165, Jefe de obra,52.14959578,10,Certificación en construcción sostenible (LEED),1,25000,7
+478,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,95.66089614,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+479,tiffany.wong@outlook.com,4925308176, Arquitecto,0.61040069,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+480,nathan.murray@yahoo.com,4929270413, Obrero,36.47372633,5,,0,30000,6
+481,jessica97@hotmail.com,4927364851, Ingeniero civil,56.54687907,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+482,mrodriguez@gmail.com,4929586102, Arquitecto,22.88409993,2,Certificación en diseño estructural,1,20000,8
+483,ssmith23@yahoo.com,4920318476, Gerente de proyectos,63.82308299,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+484,jgonzalez@gmail.com,4925871930, Jefe de obra,4.155658465,10,,0,10000,10
+485,rachel.parker@yahoo.com,4924091568, Obrero,43.13039839,1,,0,20000,8
+486,aaron.johnson@outlook.com,4926412087, Jefe de obra,54.6310021,6,,0,40000,2
+487,jkelly67@gmail.com,4927103856, Gerente de proyectos,88.97691448,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+488,amanda.miller@hotmail.com,4928936041, Arquitecto,92.32943174,5,Certificación en construcción sostenible (LEED),1,15000,9
+489,t.wilson23@yahoo.com,4921470385, Ingeniero civil,23.20174201,7,Certificación en diseño estructural,1,25000,7
+490,s.carter42@gmail.com,4926891753, Obrero,17.79295886,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+491,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,46.40624029,2,,0,25000,7
+492,jessie.jackson@outlook.com,4929257401, Obrero,95.82248631,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+493,j.adams25@hotmail.com,4921078365, Arquitecto,91.90436712,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+494,danny.brown@gmail.com,4925861074, Jefe de obra,2.810768227,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+495,rjones18@yahoo.com,4923948710, Ingeniero civil,65.2967239,1,Certificación en construcción sostenible (LEED),1,35000,5
+496,l.hernandez31@gmail.com,4928630741, Obrero,26.51386126,5,,0,10000,10
+497,karen.baker@hotmail.com,4924591783, Gerente de proyectos,20.52915706,7,,0,30000,6
+498,daniel.turner@yahoo.com,4922380974, Jefe de obra,83.69967306,9,,0,20000,8
+499,catherine_lee@gmail.com,4925738410, Arquitecto,82.08429192,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+500,kevin.walker23@yahoo.com,4929410853, Jefe de obra,1.558808864,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+501,jenny.martin12@outlook.com,4920623578, Ingeniero civil,21.57803779,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+502,bethany.russell@gmail.com,4923157890, Obrero,45.27160668,3,,0,40000,2
+503,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,75.35379162,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+504,sara.andrews@hotmail.com,4924059182, Arquitecto,68.0742877,9,Certificación en gestión de riesgos de construcción,1,35000,5
+505,j.white12@gmail.com,4921098653, Ingeniero civil,41.82581385,7,,0,15000,9
+506,jennifer.scott23@yahoo.com,4928195730, Obrero,51.44383516,2,,0,20000,8
+507,jason.cook@gmail.com,4924870165, Jefe de obra,81.79262921,10,Certificación en construcción sostenible (LEED),1,25000,7
+508,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,92.58821919,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+509,tiffany.wong@outlook.com,4925308176, Arquitecto,64.11040336,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+510,nathan.murray@yahoo.com,4929270413, Obrero,43.31871561,5,,0,30000,6
+511,jessica97@hotmail.com,4927364851, Ingeniero civil,78.59922741,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+512,mrodriguez@gmail.com,4929586102, Arquitecto,61.50736046,2,Certificación en diseño estructural,1,20000,8
+513,ssmith23@yahoo.com,4920318476, Gerente de proyectos,70.92038353,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+514,jgonzalez@gmail.com,4925871930, Jefe de obra,95.626346,10,,0,10000,10
+515,rachel.parker@yahoo.com,4924091568, Obrero,47.29751332,1,,0,20000,8
+516,aaron.johnson@outlook.com,4926412087, Jefe de obra,47.22169133,6,,0,40000,2
+517,jkelly67@gmail.com,4927103856, Gerente de proyectos,7.023172521,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+518,amanda.miller@hotmail.com,4928936041, Arquitecto,92.42928371,5,Certificación en construcción sostenible (LEED),1,15000,9
+519,t.wilson23@yahoo.com,4921470385, Ingeniero civil,79.19029756,7,Certificación en diseño estructural,1,25000,7
+520,s.carter42@gmail.com,4926891753, Obrero,0.747826064,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+521,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,60.16158782,2,,0,25000,7
+522,jessie.jackson@outlook.com,4929257401, Obrero,10.86749511,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+523,j.adams25@hotmail.com,4921078365, Arquitecto,29.73667023,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+524,danny.brown@gmail.com,4925861074, Jefe de obra,55.75795217,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+525,rjones18@yahoo.com,4923948710, Ingeniero civil,99.94687083,1,Certificación en construcción sostenible (LEED),1,35000,5
+526,l.hernandez31@gmail.com,4928630741, Obrero,44.03875227,5,,0,10000,10
+527,karen.baker@hotmail.com,4924591783, Gerente de proyectos,3.172248336,7,,0,30000,6
+528,daniel.turner@yahoo.com,4922380974, Jefe de obra,78.79855466,9,,0,20000,8
+529,catherine_lee@gmail.com,4925738410, Arquitecto,80.82626493,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+530,kevin.walker23@yahoo.com,4929410853, Jefe de obra,27.90917302,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+531,jenny.martin12@outlook.com,4920623578, Ingeniero civil,53.21890024,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+532,bethany.russell@gmail.com,4923157890, Obrero,49.92033943,3,,0,40000,2
+533,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,62.16422509,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+534,sara.andrews@hotmail.com,4924059182, Arquitecto,54.86006123,9,Certificación en gestión de riesgos de construcción,1,35000,5
+535,j.white12@gmail.com,4921098653, Ingeniero civil,0.779220078,7,,0,15000,9
+536,jennifer.scott23@yahoo.com,4928195730, Obrero,6.627590119,2,,0,20000,8
+537,jason.cook@gmail.com,4924870165, Jefe de obra,44.70103209,10,Certificación en construcción sostenible (LEED),1,25000,7
+538,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,7.065527736,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+539,tiffany.wong@outlook.com,4925308176, Arquitecto,22.92789324,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+540,nathan.murray@yahoo.com,4929270413, Obrero,37.49783459,5,,0,30000,6
+541,jessica97@hotmail.com,4927364851, Ingeniero civil,23.14804699,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+542,mrodriguez@gmail.com,4929586102, Arquitecto,7.325992116,2,Certificación en diseño estructural,1,20000,8
+543,ssmith23@yahoo.com,4920318476, Gerente de proyectos,60.92637383,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+544,jgonzalez@gmail.com,4925871930, Jefe de obra,48.58209995,10,,0,10000,10
+545,rachel.parker@yahoo.com,4924091568, Obrero,86.61930259,1,,0,20000,8
+546,aaron.johnson@outlook.com,4926412087, Jefe de obra,95.08418468,6,,0,40000,2
+547,jkelly67@gmail.com,4927103856, Gerente de proyectos,77.15150698,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+548,amanda.miller@hotmail.com,4928936041, Arquitecto,1.365367239,5,Certificación en construcción sostenible (LEED),1,15000,9
+549,t.wilson23@yahoo.com,4921470385, Ingeniero civil,29.63489808,7,Certificación en diseño estructural,1,25000,7
+550,s.carter42@gmail.com,4926891753, Obrero,88.70209619,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+551,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,30.06423282,2,,0,25000,7
+552,jessie.jackson@outlook.com,4929257401, Obrero,65.72907657,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+553,j.adams25@hotmail.com,4921078365, Arquitecto,90.68710173,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+554,danny.brown@gmail.com,4925861074, Jefe de obra,43.18194923,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+555,rjones18@yahoo.com,4923948710, Ingeniero civil,57.27100917,1,Certificación en construcción sostenible (LEED),1,35000,5
+556,l.hernandez31@gmail.com,4928630741, Obrero,37.75232825,5,,0,10000,10
+557,karen.baker@hotmail.com,4924591783, Gerente de proyectos,63.85152206,7,,0,30000,6
+558,daniel.turner@yahoo.com,4922380974, Jefe de obra,50.32339986,9,,0,20000,8
+559,catherine_lee@gmail.com,4925738410, Arquitecto,69.8924996,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+560,kevin.walker23@yahoo.com,4929410853, Jefe de obra,79.03309035,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+561,jenny.martin12@outlook.com,4920623578, Ingeniero civil,22.73173277,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+562,bethany.russell@gmail.com,4923157890, Obrero,44.50072088,3,,0,40000,2
+563,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,13.79636082,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+564,sara.andrews@hotmail.com,4924059182, Arquitecto,80.24215933,9,Certificación en gestión de riesgos de construcción,1,35000,5
+565,j.white12@gmail.com,4921098653, Ingeniero civil,78.5257302,7,,0,15000,9
+566,jennifer.scott23@yahoo.com,4928195730, Obrero,36.0609029,2,,0,20000,8
+567,jason.cook@gmail.com,4924870165, Jefe de obra,50.14532793,10,Certificación en construcción sostenible (LEED),1,25000,7
+568,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,68.8986353,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+569,tiffany.wong@outlook.com,4925308176, Arquitecto,77.41008271,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+570,nathan.murray@yahoo.com,4929270413, Obrero,50.90991115,5,,0,30000,6
+571,jessica97@hotmail.com,4927364851, Ingeniero civil,71.72482993,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+572,mrodriguez@gmail.com,4929586102, Arquitecto,89.94790199,2,Certificación en diseño estructural,1,20000,8
+573,ssmith23@yahoo.com,4920318476, Gerente de proyectos,56.25142456,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+574,jgonzalez@gmail.com,4925871930, Jefe de obra,12.48341516,10,,0,10000,10
+575,rachel.parker@yahoo.com,4924091568, Obrero,67.48075656,1,,0,20000,8
+576,aaron.johnson@outlook.com,4926412087, Jefe de obra,67.77638902,6,,0,40000,2
+577,jkelly67@gmail.com,4927103856, Gerente de proyectos,57.82106626,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+578,amanda.miller@hotmail.com,4928936041, Arquitecto,23.14550327,5,Certificación en construcción sostenible (LEED),1,15000,9
+579,t.wilson23@yahoo.com,4921470385, Ingeniero civil,96.54362726,7,Certificación en diseño estructural,1,25000,7
+580,s.carter42@gmail.com,4926891753, Obrero,98.76533831,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+581,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,32.20277974,2,,0,25000,7
+582,jessie.jackson@outlook.com,4929257401, Obrero,94.65334198,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+583,j.adams25@hotmail.com,4921078365, Arquitecto,27.65992973,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+584,danny.brown@gmail.com,4925861074, Jefe de obra,13.12843731,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+585,rjones18@yahoo.com,4923948710, Ingeniero civil,57.67356083,1,Certificación en construcción sostenible (LEED),1,35000,5
+586,l.hernandez31@gmail.com,4928630741, Obrero,20.30989946,5,,0,10000,10
+587,karen.baker@hotmail.com,4924591783, Gerente de proyectos,33.46013594,7,,0,30000,6
+588,daniel.turner@yahoo.com,4922380974, Jefe de obra,86.00112479,9,,0,20000,8
+589,catherine_lee@gmail.com,4925738410, Arquitecto,75.79410352,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+590,kevin.walker23@yahoo.com,4929410853, Jefe de obra,47.62570121,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+591,jenny.martin12@outlook.com,4920623578, Ingeniero civil,92.45366867,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+592,bethany.russell@gmail.com,4923157890, Obrero,52.14729169,3,,0,40000,2
+593,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,60.98862479,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+594,sara.andrews@hotmail.com,4924059182, Arquitecto,50.59891784,9,Certificación en gestión de riesgos de construcción,1,35000,5
+595,j.white12@gmail.com,4921098653, Ingeniero civil,8.294663598,7,,0,15000,9
+596,jennifer.scott23@yahoo.com,4928195730, Obrero,85.27481222,2,,0,20000,8
+597,jason.cook@gmail.com,4924870165, Jefe de obra,86.8440864,10,Certificación en construcción sostenible (LEED),1,25000,7
+598,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,0.42460228,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+599,tiffany.wong@outlook.com,4925308176, Arquitecto,50.94043104,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+600,nathan.murray@yahoo.com,4929270413, Obrero,60.03642723,5,,0,30000,6
+601,jessica97@hotmail.com,4927364851, Ingeniero civil,38.43602539,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+602,mrodriguez@gmail.com,4929586102, Arquitecto,72.92508383,2,Certificación en diseño estructural,1,20000,8
+603,ssmith23@yahoo.com,4920318476, Gerente de proyectos,73.05748137,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+604,jgonzalez@gmail.com,4925871930, Jefe de obra,67.36844081,10,,0,10000,10
+605,rachel.parker@yahoo.com,4924091568, Obrero,60.53395332,1,,0,20000,8
+606,aaron.johnson@outlook.com,4926412087, Jefe de obra,4.605349676,6,,0,40000,2
+607,jkelly67@gmail.com,4927103856, Gerente de proyectos,78.56474168,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+608,amanda.miller@hotmail.com,4928936041, Arquitecto,79.42221464,5,Certificación en construcción sostenible (LEED),1,15000,9
+609,t.wilson23@yahoo.com,4921470385, Ingeniero civil,15.42585634,7,Certificación en diseño estructural,1,25000,7
+610,s.carter42@gmail.com,4926891753, Obrero,16.90968731,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+611,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,28.0698915,2,,0,25000,7
+612,jessie.jackson@outlook.com,4929257401, Obrero,87.6722443,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+613,j.adams25@hotmail.com,4921078365, Arquitecto,64.34640665,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+614,danny.brown@gmail.com,4925861074, Jefe de obra,89.49752812,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+615,rjones18@yahoo.com,4923948710, Ingeniero civil,92.53020476,1,Certificación en construcción sostenible (LEED),1,35000,5
+616,l.hernandez31@gmail.com,4928630741, Obrero,64.70573737,5,,0,10000,10
+617,karen.baker@hotmail.com,4924591783, Gerente de proyectos,34.412563,7,,0,30000,6
+618,daniel.turner@yahoo.com,4922380974, Jefe de obra,84.23759217,9,,0,20000,8
+619,catherine_lee@gmail.com,4925738410, Arquitecto,37.52877124,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+620,kevin.walker23@yahoo.com,4929410853, Jefe de obra,15.71966953,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+621,jenny.martin12@outlook.com,4920623578, Ingeniero civil,66.86811936,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+622,bethany.russell@gmail.com,4923157890, Obrero,75.93929144,3,,0,40000,2
+623,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,69.72024347,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+624,sara.andrews@hotmail.com,4924059182, Arquitecto,2.407892517,9,Certificación en gestión de riesgos de construcción,1,35000,5
+625,j.white12@gmail.com,4921098653, Ingeniero civil,20.97904824,7,,0,15000,9
+626,jennifer.scott23@yahoo.com,4928195730, Obrero,94.88429709,2,,0,20000,8
+627,jason.cook@gmail.com,4924870165, Jefe de obra,25.44642241,10,Certificación en construcción sostenible (LEED),1,25000,7
+628,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,65.69266241,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+629,tiffany.wong@outlook.com,4925308176, Arquitecto,9.626441363,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+630,nathan.murray@yahoo.com,4929270413, Obrero,40.11794578,5,,0,30000,6
+631,jessica97@hotmail.com,4927364851, Ingeniero civil,53.82012032,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+632,mrodriguez@gmail.com,4929586102, Arquitecto,97.71692938,2,Certificación en diseño estructural,1,20000,8
+633,ssmith23@yahoo.com,4920318476, Gerente de proyectos,22.8757828,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+634,jgonzalez@gmail.com,4925871930, Jefe de obra,85.41593862,10,,0,10000,10
+635,rachel.parker@yahoo.com,4924091568, Obrero,2.864880102,1,,0,20000,8
+636,aaron.johnson@outlook.com,4926412087, Jefe de obra,5.56158354,6,,0,40000,2
+637,jkelly67@gmail.com,4927103856, Gerente de proyectos,4.703536659,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+638,amanda.miller@hotmail.com,4928936041, Arquitecto,31.34893339,5,Certificación en construcción sostenible (LEED),1,15000,9
+639,t.wilson23@yahoo.com,4921470385, Ingeniero civil,55.33225426,7,Certificación en diseño estructural,1,25000,7
+640,s.carter42@gmail.com,4926891753, Obrero,49.14249345,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+641,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,49.37494808,2,,0,25000,7
+642,jessie.jackson@outlook.com,4929257401, Obrero,17.7840112,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+643,j.adams25@hotmail.com,4921078365, Arquitecto,85.93489077,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+644,danny.brown@gmail.com,4925861074, Jefe de obra,31.26506911,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+645,rjones18@yahoo.com,4923948710, Ingeniero civil,45.90975886,1,Certificación en construcción sostenible (LEED),1,35000,5
+646,l.hernandez31@gmail.com,4928630741, Obrero,27.5756605,5,,0,10000,10
+647,karen.baker@hotmail.com,4924591783, Gerente de proyectos,74.62579198,7,,0,30000,6
+648,daniel.turner@yahoo.com,4922380974, Jefe de obra,23.64064394,9,,0,20000,8
+649,catherine_lee@gmail.com,4925738410, Arquitecto,90.51108666,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+650,kevin.walker23@yahoo.com,4929410853, Jefe de obra,70.33000719,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+651,jenny.martin12@outlook.com,4920623578, Ingeniero civil,2.968211779,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+652,bethany.russell@gmail.com,4923157890, Obrero,47.76033622,3,,0,40000,2
+653,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,66.74204093,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+654,sara.andrews@hotmail.com,4924059182, Arquitecto,29.58905485,9,Certificación en gestión de riesgos de construcción,1,35000,5
+655,j.white12@gmail.com,4921098653, Ingeniero civil,44.86689459,7,,0,15000,9
+656,jennifer.scott23@yahoo.com,4928195730, Obrero,4.043976239,2,,0,20000,8
+657,jason.cook@gmail.com,4924870165, Jefe de obra,69.80306681,10,Certificación en construcción sostenible (LEED),1,25000,7
+658,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,23.72585953,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+659,tiffany.wong@outlook.com,4925308176, Arquitecto,3.039934405,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+660,nathan.murray@yahoo.com,4929270413, Obrero,27.83494107,5,,0,30000,6
+661,jessica97@hotmail.com,4927364851, Ingeniero civil,53.53028197,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+662,mrodriguez@gmail.com,4929586102, Arquitecto,51.17817638,2,Certificación en diseño estructural,1,20000,8
+663,ssmith23@yahoo.com,4920318476, Gerente de proyectos,73.55501807,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+664,jgonzalez@gmail.com,4925871930, Jefe de obra,30.33320484,10,,0,10000,10
+665,rachel.parker@yahoo.com,4924091568, Obrero,60.88498312,1,,0,20000,8
+666,aaron.johnson@outlook.com,4926412087, Jefe de obra,84.66422938,6,,0,40000,2
+667,jkelly67@gmail.com,4927103856, Gerente de proyectos,24.28842907,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+668,amanda.miller@hotmail.com,4928936041, Arquitecto,79.02628336,5,Certificación en construcción sostenible (LEED),1,15000,9
+669,t.wilson23@yahoo.com,4921470385, Ingeniero civil,58.53678809,7,Certificación en diseño estructural,1,25000,7
+670,s.carter42@gmail.com,4926891753, Obrero,18.09131507,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+671,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,94.54874259,2,,0,25000,7
+672,jessie.jackson@outlook.com,4929257401, Obrero,97.50927143,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+673,j.adams25@hotmail.com,4921078365, Arquitecto,23.06135751,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+674,danny.brown@gmail.com,4925861074, Jefe de obra,5.18426306,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+675,rjones18@yahoo.com,4923948710, Ingeniero civil,55.53480686,1,Certificación en construcción sostenible (LEED),1,35000,5
+676,l.hernandez31@gmail.com,4928630741, Obrero,45.99708236,5,,0,10000,10
+677,karen.baker@hotmail.com,4924591783, Gerente de proyectos,15.57404742,7,,0,30000,6
+678,daniel.turner@yahoo.com,4922380974, Jefe de obra,82.0122639,9,,0,20000,8
+679,catherine_lee@gmail.com,4925738410, Arquitecto,48.26422687,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+680,kevin.walker23@yahoo.com,4929410853, Jefe de obra,3.440310454,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+681,jenny.martin12@outlook.com,4920623578, Ingeniero civil,38.5051908,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+682,bethany.russell@gmail.com,4923157890, Obrero,34.64117775,3,,0,40000,2
+683,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,8.153352062,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+684,sara.andrews@hotmail.com,4924059182, Arquitecto,36.29047411,9,Certificación en gestión de riesgos de construcción,1,35000,5
+685,j.white12@gmail.com,4921098653, Ingeniero civil,5.823973372,7,,0,15000,9
+686,jennifer.scott23@yahoo.com,4928195730, Obrero,21.97226982,2,,0,20000,8
+687,jason.cook@gmail.com,4924870165, Jefe de obra,61.75241834,10,Certificación en construcción sostenible (LEED),1,25000,7
+688,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,8.773249917,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+689,tiffany.wong@outlook.com,4925308176, Arquitecto,7.978558329,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+690,nathan.murray@yahoo.com,4929270413, Obrero,87.52333422,5,,0,30000,6
+691,jessica97@hotmail.com,4927364851, Ingeniero civil,23.05872524,8,"Certificación en construcción sostenible (LEED) , Certificación en seguridad ocupacional (OSHA), Certificación en seguridad ocupacional (OSHA)",3,15000,9
+692,mrodriguez@gmail.com,4929586102, Arquitecto,9.189517242,2,Certificación en diseño estructural,1,20000,8
+693,ssmith23@yahoo.com,4920318476, Gerente de proyectos,38.98773381,3,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",1,35000,5
+694,jgonzalez@gmail.com,4925871930, Jefe de obra,78.7834405,10,,0,10000,10
+695,rachel.parker@yahoo.com,4924091568, Obrero,45.64498036,1,,0,20000,8
+696,aaron.johnson@outlook.com,4926412087, Jefe de obra,47.51034779,6,,0,40000,2
+697,jkelly67@gmail.com,4927103856, Gerente de proyectos,20.4516678,4,Certificación en seguridad ocupacional (OSHA),1,30000,6
+698,amanda.miller@hotmail.com,4928936041, Arquitecto,91.41617474,5,Certificación en construcción sostenible (LEED),1,15000,9
+699,t.wilson23@yahoo.com,4921470385, Ingeniero civil,69.32554359,7,Certificación en diseño estructural,1,25000,7
+700,s.carter42@gmail.com,4926891753, Obrero,96.44342293,9,Certificación en diseño asistido por computadora (CAD),1,20000,8
+701,perez.luisa@yahoo.com,4920163874, Gerente de proyectos,52.91704465,2,,0,25000,7
+702,jessie.jackson@outlook.com,4929257401, Obrero,42.25174709,3,Certificación en gestión ambiental (ISO 14001),1,40000,2
+703,j.adams25@hotmail.com,4921078365, Arquitecto,31.52916191,8,Certificación en gestión de calidad (ISO 9001),1,20000,8
+704,danny.brown@gmail.com,4925861074, Jefe de obra,48.89187274,10,Certificación en seguridad ocupacional (OSHA),1,25000,7
+705,rjones18@yahoo.com,4923948710, Ingeniero civil,23.34567177,1,Certificación en construcción sostenible (LEED),1,35000,5
+706,l.hernandez31@gmail.com,4928630741, Obrero,38.90037712,5,,0,10000,10
+707,karen.baker@hotmail.com,4924591783, Gerente de proyectos,5.208730812,7,,0,30000,6
+708,daniel.turner@yahoo.com,4922380974, Jefe de obra,24.58146367,9,,0,20000,8
+709,catherine_lee@gmail.com,4925738410, Arquitecto,33.93319642,6,Certificación en gestión ambiental (ISO 14001),1,35000,5
+710,kevin.walker23@yahoo.com,4929410853, Jefe de obra,95.60370546,4,"Certificación en gestión de calidad (ISO 9001), Certificación en seguridad ocupacional (OSHA)",2,30000,6
+711,jenny.martin12@outlook.com,4920623578, Ingeniero civil,43.91604966,1,Certificación en seguridad ocupacional (OSHA),1,25000,7
+712,bethany.russell@gmail.com,4923157890, Obrero,30.25935259,3,,0,40000,2
+713,k.nguyen23@yahoo.com,4927289031, Gerente de proyectos,0.114281411,8,Certificación en diseño asistido por computadora (CAD),1,15000,9
+714,sara.andrews@hotmail.com,4924059182, Arquitecto,47.52493126,9,Certificación en gestión de riesgos de construcción,1,35000,5
+715,j.white12@gmail.com,4921098653, Ingeniero civil,71.12729404,7,,0,15000,9
+716,jennifer.scott23@yahoo.com,4928195730, Obrero,65.83689757,2,,0,20000,8
+717,jason.cook@gmail.com,4924870165, Jefe de obra,42.69483885,10,Certificación en construcción sostenible (LEED),1,25000,7
+718,j.barnes42@hotmail.com,4926731098, Gerente de proyectos,32.73073798,6,"Certificación en diseño estructural, Certificación en seguridad ocupacional (OSHA)",2,40000,2
+719,tiffany.wong@outlook.com,4925308176, Arquitecto,79.66125068,4,"Certificación en diseño asistido por computadora (CAD), Certificación en seguridad ocupacional (OSHA)",2,15000,9
+720,nathan.murray@yahoo.com,4929270413, Obrero,5.748156693,5,,,,
